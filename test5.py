@@ -9,7 +9,7 @@ from sklearn.mixture import GaussianMixture
 import pickle
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 import matplotlib.pyplot as plt
-# import threading
+import threading
 # import pyaudio
 
 # Initialize recognizer
