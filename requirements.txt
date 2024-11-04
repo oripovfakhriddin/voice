@@ -1,0 +1,13 @@
+future
+SpeechRecognition
+numpy
+soundfile
+python_speech_features
+PyAudio
+scikit-learn
+pillow
+pydub
+joblib
+python-dateutil
+scipy
+setuptools
